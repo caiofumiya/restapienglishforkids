@@ -1,4 +1,19 @@
-{
+{ 
+  "melhor_namorada_domundo":[
+    {
+      "id": 1,
+      "nome": "Emilly Roschel Borba"
+    },
+    {
+      "id": 2,
+      "nome": "Emilia Rochele"
+    },
+    {
+      "id": 3,
+      "nome": "Amilia Borba"
+    }
+  ],
+
   "users": [
     {
       "id": 1,
