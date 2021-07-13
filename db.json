@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Caio Fumiya",
+      "email": "caiofumiya@gmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+  ],
+  
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://docmundo.com.br/wp-content/uploads/2016/04/familysearch3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://st.depositphotos.com/1007989/2764/i/600/depositphotos_27647955-stock-photo-colorful-numbers.jpg"
+    },
+    {
+      "name": "Colors",
+      "image": "https://st.depositphotos.com/1007989/2764/i/600/depositphotos_27647955-stock-photo-colorful-numbers.jpg",
+      "id": 3
+    }
+  ]
+}
