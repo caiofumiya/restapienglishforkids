@@ -1,0 +1,23 @@
+{
+  "name": "restapienlgishforkids",
+  "version": "1.0.0",
+  "description": "REST API English for Kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiofumiya/restapienglishforkids.git"
+  },
+  "keywords": [],
+  "author": "Caio Fumiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiofumiya/restapienglishforkids/issues"
+  },
+  "homepage": "https://github.com/caiofumiya/restapienglishforkids#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
